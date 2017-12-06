@@ -1,0 +1,58 @@
+.staticlada {
+	width:400px; 
+	height: 400px; 
+	top:50px; 
+    left:50px;  
+	background-color: blue; 
+}
+
+#static { 
+	position: static; 
+	margin-top: 10px;
+	margin-right: 100px;
+}
+
+.rod {
+	width: 100px;
+	height: 100px;
+	background-color: rod;
+	
+}
+	
+	
+.fixedlada {
+	width:100px; 
+	height: 100px; 
+	top:50px; 
+    right:50px;  
+	background-color: green; 
+	
+}
+
+#fixed {
+position: fixed; 
+}
+
+
+.relativelada {
+	width:200px; 
+	height: 200px; 
+	background-color: yellow; 
+}
+
+.absolutelada {
+	width:50px; 
+	height: 50px; 
+	bottom:50px; 
+    left:50px;  
+	background-color: red; 
+}
+#relative{
+	position: relative; 
+} 
+
+#absolute{
+	position: absolute; 
+}
+
+

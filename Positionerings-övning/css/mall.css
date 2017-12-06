@@ -1,0 +1,66 @@
+body{
+	background-color: white;
+}
+
+h1{
+	color: lightblue; 
+}
+
+#color {
+	background-color: blue; 
+
+}
+
+#background-color {
+	background-color: pink; 
+} 
+
+.outer {
+	width: 200px; 
+	height: 300px; 
+	position: relative; 
+	border: 2px solid black;   
+
+}	
+
+#outer1{
+	top: 0px; 
+	left: 0px; 
+}
+	
+#outer2 { 
+
+	top: -340px; 
+	left: 210px;
+	
+}
+
+#outer3 { 
+	 top: -680px; 
+	left: 420px;
+
+}
+
+.square {
+	top: 0px;  
+	left: 0px; 
+	height: 100px; 
+	width: 100px; 
+	opacity: .5; 
+} 
+
+#static {
+	position:static; 
+	background-color: lightblue;  
+} 
+
+#relative {
+	position: relative; 
+	background-color: blue: 
+}
+
+#absolute {
+	position: absolute; 
+	background-color: yellow; 
+}
+	

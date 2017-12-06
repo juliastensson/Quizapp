@@ -1,0 +1,53 @@
+.rod {
+	background-color: red; 
+	padding: 12px
+}
+.inteInline{
+	display: block; 
+}
+
+.smal{
+	width: 180px; 
+	height: 200px; 
+	background-color: grey; 
+	
+}
+
+.gulinne{
+	width: 200px
+	height: 200px 
+	background-color: yellow 
+	margin-left: 100px; 
+	margin-right: 100px;  
+
+	
+}
+
+.synsinte{
+	display:none;
+}
+
+.storbla {
+	background-color: blue; 
+	color: yellow; 
+	width: 200px 
+	heigth: 200px 
+	margin-top: 10px; 
+	margin-left: auto; 
+	margin-right: auto; 
+}
+
+.stor{
+	background-color: grey; 
+	width: 40%; 
+	height: 200px; 
+	margin: 10px auto; 
+}
+
+.kalle {
+	background-color: green; 
+	width: 300px; 
+	height: 300px; 
+	float: left; 
+	margin: 20px; 
+}

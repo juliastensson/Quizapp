@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(252, 150, 150)
+}
+
+table{ 
+
+
+}
+
+table th{
+    background-color: rgb(216, 234, 247); 
+    font-family: 'Spectral SC', serif; 
+    border: double white;
+
+}
+
+
+table td { 
+    background-color: rgb(216, 234, 247);
+    border: dotted white; 
+   
+}

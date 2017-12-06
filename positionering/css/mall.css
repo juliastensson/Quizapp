@@ -1,0 +1,88 @@
+.rod {
+	width: 100px; 
+	height: 100px; 
+	top:50px; 
+    left:50px;  
+	background-color: #ff0000;
+}
+
+.gron {
+	width: 500px; 
+	height: 500px; 
+	background-color: rgb(0,255,0);
+	
+}
+
+.bla{
+	width: 120px; 
+	height: 120px; 
+	background-color: blue; 
+} 
+ #stick{
+	position:sticky;
+	left: 0px; 
+	top: 105px; 
+}
+ 
+ 
+#abs{
+	position:absolute;
+	left: 150px; 
+	top: 530px; 
+}
+
+#rela{
+	position:relative;
+	left: 150px; 
+	top: 30px; 
+} 
+
+#fix{
+	position:fixed;
+	right: 100px; 
+	top: 10px; 
+} 
+
+/*lekstuga*/ 
+
+.rodliten {
+	width: 100px; 
+	height: 100px; 
+	top:50px; 
+    left:50px;  
+	background-color:#ff0000;
+}
+
+.gronstor{
+	width: 500px; 
+	height: 500px; 
+	background-color: rgb(0,255,0);
+}
+
+
+.gulliten {
+	width: 100px; 
+	height: 100px; 
+	background-color: yellow; 
+	top:50px; 
+    left:50px; 
+	
+} 
+
+.blaliten {
+	width: 100px; 
+	height: 100px; 
+	background-color:blue; 
+	top:100px; 
+    right:100px; 
+	
+} 
+
+ 
+#relative { 
+	position:relative; 
+} 
+
+#absolute {
+	position: absolute; 
+}
